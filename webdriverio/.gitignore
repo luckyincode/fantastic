@@ -1,0 +1,13 @@
+#Dev Specific
+.DS_Store
+*.tar.gz
+*.zip
+*.log
+
+#Node
+node_modules
+
+#wdio specific
+errorShots
+logs
+screenshots
